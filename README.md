@@ -1,2 +1,2 @@
 # VxC-
-Repositorio de bmp para entrenamiento
+Repositorio de laboratorio de la materia
